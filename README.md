@@ -1,9 +1,4 @@
 # PROYECTO-FINAL-Marmolejo
-# Resumen de Archivos CSV
-
-Este documento presenta un resumen de los dos archivos CSV generados: **datos_ejemplo.csv** y **clientes.csv**.
-
----
 
 ## 1. datos_ejemplo.csv
 
